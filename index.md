@@ -1,8 +1,23 @@
-# My GitHub Page  _- Ramya Rajaram_
+# Ramya's First CS193 Homework
+## My GitHub Page  _- Ramya Rajaram_
 
 I am using the [editor in GitHub](https://github.com/Purdue-CS193/homework-0-ramyarakr/edit/master/index.md) to maintain and preview the content for my website in Markdown files.
 
 Whenever one commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
+
+### Different writing styles  _(my trial and edits)_
+**This is bold.**
+_This is Italic._
+`This is a code.`
+
+[This is my LinkedIn.](https://www.linkedin.com/in/ramya-rajaram-6606b0232/)
+
+### My bulleted list
+**_My favorite things about CS 193 are:_**
+- The Course Instructors/ TAs 
+- The information/knowledge I gain regarding programming tools
+- The friends I have made in the class
+- The USB and its resources
 
 ### Markdown
 
@@ -27,13 +42,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Different writing styles  _(new header section)_
-**This is bold.**
-_This is Italic._
-`This is a code.`
-
-[This is my LinkedIn.](https://www.linkedin.com/in/ramya-rajaram-6606b0232/)
 
 ### Jekyll Themes
 
