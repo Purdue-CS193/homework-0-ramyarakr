@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 _This is Italic._
 `This is a code.`
 
-[This is my LinkedIn.](www.linkedin.com/in/ramya-rajaram-6606b0232)
+[This is my LinkedIn.](https://www.linkedin.com/in/ramya-rajaram-6606b0232/)
 
 ### Jekyll Themes
 
