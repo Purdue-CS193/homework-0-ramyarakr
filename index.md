@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# My GitHub Page  _- Ramya Rajaram_
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am using the [editor in GitHub](https://github.com/Purdue-CS193/homework-0-ramyarakr/edit/master/index.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever one commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
 ### Markdown
 
@@ -27,6 +27,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Different writing styles  _(new header section)_
+**This is bold.**
+_This is Italic._
+`This is a code.`
+
+[This is my LinkedIn.](www.linkedin.com/in/ramya-rajaram-6606b0232)
 
 ### Jekyll Themes
 
